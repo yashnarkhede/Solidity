@@ -24,3 +24,5 @@ contract local{
 }
 
 // view or pure is used where we dont change state variable.
+// view can read he state variable but pure cannot read state variable.
+// view can be used at place of pure also but not vice versa.
