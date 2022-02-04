@@ -22,3 +22,5 @@ contract local{
 
     // We have to pay gas fees in setter as we are changing data.
 }
+
+// view or pure is used where we dont change state variable.
