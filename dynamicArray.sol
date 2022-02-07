@@ -14,6 +14,6 @@ contract Array{
     }
 
     function popElement() public {
-        arr.pop;
+        arr.pop();
     }
 }
